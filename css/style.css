@@ -1,0 +1,100 @@
+.hiddendiv{
+	width: 0 !important;
+}
+.hiddendiv.commom{
+	width: 0 !important;
+}
+header{
+	background-image: url('../img/bg.jpg');
+	height: 300px;
+	background-size: cover;
+}
+.nav{
+	background:transparent;
+}
+.nav-wrapper{
+	text-transform: uppercase;
+	font-weight: 700;
+}
+ #subtitulos{
+	margin-top: 0;
+}
+.desktop a:hover{
+	height: 60px;
+	border-bottom: 2px solid aliceblue;
+}
+#dropdown li a{
+	color: black;
+}
+.padding-collapsible{
+	padding: 0 16px !important;
+  }
+.padding-collapsible>a{
+   padding: 0 !important;
+}
+a.subheader>i.material-icons.left{
+   height: auto;
+   line-height: inherit;
+}
+.slider .indicators .indicator-item {
+	height: 12px;
+	width: 12px;	
+}
+.collapsible li .collapsible-header i.right {
+	transition: transform .2s linear;
+}
+.slider .indicators .indicator-item.active {
+	background-color:rgb(192, 15, 15);
+  }
+#contato{
+	margin-bottom: 0;
+}
+.title{
+	margin-top: 50px;
+}
+.title h1{
+	font-size: 45px;
+}
+#sobre{
+	line-height: 50px;
+	font-weight: bold;
+	border:2px solid #3498db;
+	border-radius: 40px;
+}
+#sobre:hover{
+	padding-left:  40px;
+	padding-right:  40px;
+	border:2px solid #00b0ff;
+	background-color:transparent;
+}
+#services{
+	background-color: #eeeef3;
+}
+i.material-icons.icone.medium{
+	color:#c62828;
+}
+@media (min-width: 600px){
+	header{
+		height: 500px;
+	}
+	.image{
+		height: 195px;
+	}
+	.slider .indicators .indicator-item {
+		height: 16px;
+		width: 16px;	
+	}
+	.nav-wrapper a{
+		font-size: 20px;
+	}
+	.desktop a{
+		font-size: 14px;
+	}
+	.drop a{
+		font-size: 14px;
+	}
+	.title{
+		margin-top: 150px;
+	}
+	  
+}
