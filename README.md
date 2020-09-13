@@ -24,10 +24,9 @@
 
 ### 📖 Projeto
 Esse projeto visava em aprender um novo framework de CSS. Dentre as opções que haviam, resolvi escolher o Materialize por ser um framework/biblioteca baseado no Material
-Design da Google. Apesar de conter diversas funcionalidades e ter uma estilização padrão muito bonito, o Materialize tem menos funcionalidades e estilizações do que o  
-Bootstrap.
-<br/>
-Entretanto, foi muito importante conhecer esse framework e poder desenvolver um layout com o mesmo. Caso queiram conhecer mais sobre o Materialize, pode acessar sua 
+Design da Google. 
+<br>
+Apesar de conter diversas funcionalidades e ter uma estilização padrão muito bonito, o Materialize tem menos funcionalidades e estilizações do que Bootstrap.Entretanto, foi muito importante conhecer esse framework e poder desenvolver um layout com o mesmo. Caso queiram conhecer mais sobre o Materialize, pode acessar sua 
 [documentação](https://materializecss.com/)
 
 
