@@ -31,6 +31,8 @@ Apesar de conter diversas funcionalidades e ter uma estilização padrão muito 
 Entretanto, foi muito importante conhecer esse framework e poder desenvolver um layout com o mesmo. Caso queiram conhecer mais sobre o Materialize, pode acessar sua 
 [documentação](https://materializecss.com/)
 
+### 🖥 Demonstração
+<img src="https://github.com/Gabriel-Teixeira/Materialize/blob/master/img/thumbnail.png" alt="Materialize" />
 
 ### ⚙ Pré-requisitos
 
